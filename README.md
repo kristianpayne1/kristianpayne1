@@ -9,7 +9,7 @@ BSc Computer Science | University of Kent
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [kristian.j.payne@gmail.com](mailto:kristian.j.payne@gmail.com)
 * 🚀  I'm currently working on [ThreeJS | Chess](http://kristianpayne1.github.io/threejs-chess/)
-* 🧠  I'm learning BabylonJS!
+* 🧠  I'm learning Rust!
 
 ### Skills
 
