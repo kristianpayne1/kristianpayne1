@@ -4,12 +4,10 @@ Hi 👋 My name is Kristian Payne
 Web Developer
 -------------
 
-BSc Computer Science | University of Kent
+First Class BSc Computer Science | University of Kent
 
-* 🌍  I'm based in UK
+* 🌍  I'm based in the UK
 * ✉️  You can contact me at [kristian.j.payne@gmail.com](mailto:kristian.j.payne@gmail.com)
-* 🚀  I'm currently working on [ThreeJS | Chess](http://kristianpayne1.github.io/threejs-chess/)
-* 🧠  I'm learning Rust!
 
 ### Skills
 
@@ -26,7 +24,6 @@ BSc Computer Science | University of Kent
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
 
@@ -39,8 +36,6 @@ BSc Computer Science | University of Kent
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kristianpayne1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kristianpayne1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/kristianpayne1"><img src="https://activity-graph.herokuapp.com/graph?username=kristianpayne1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!---
 kristianpayne1/kristianpayne1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
